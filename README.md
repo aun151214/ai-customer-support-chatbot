@@ -20,6 +20,24 @@ Many small businesses receive repeated customer questions about services, appoin
 - Save customer lead requests locally in a CSV file
 - Clean and simple Python project structure
 
+## Demo Screenshots
+
+### App Home
+
+![App Home](assets/app_home.png)
+
+### FAQ Answer Example
+
+![FAQ Answer Demo](assets/faq_answer_demo.png)
+
+### Unsupported Question Example
+
+![Not Found Demo](assets/not_found_demo.png)
+
+### Lead Request Form
+
+![Lead Form Demo](assets/lead_form_demo.png)
+
 ## Tech Stack
 
 - Python
