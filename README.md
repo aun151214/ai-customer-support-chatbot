@@ -24,19 +24,19 @@ Many small businesses receive repeated customer questions about services, appoin
 
 ### App Home
 
-![App Home](assets/app_home.png)
+![App Home](assets/app_home.PNG)
 
 ### FAQ Answer Example
 
-![FAQ Answer Demo](assets/faq_answer_demo.png)
+![FAQ Answer Demo](assets/faq_answer_demo.PNG)
 
 ### Unsupported Question Example
 
-![Not Found Demo](assets/not_found_demo.png)
+![Not Found Demo](assets/not_found_demo.PNG)
 
 ### Lead Request Form
 
-![Lead Form Demo](assets/lead_form_demo.png)
+![Lead Form Demo](assets/lead_form_demo.PNG)
 
 ## Tech Stack
 
